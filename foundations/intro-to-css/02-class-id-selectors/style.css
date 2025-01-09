@@ -1,0 +1,20 @@
+#one {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#two {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 800;
+}
+
+.one {
+    background-color: #ffc0cb;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+
+.two {
+    font-size: 24px;
+}
